@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
 # The CIFAR-10 dataset:
-# https://www.cs.toronto.edu/~kriz/cifar.html
 
 import pickle
 import numpy as np
